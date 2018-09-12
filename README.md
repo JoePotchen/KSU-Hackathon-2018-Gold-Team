@@ -40,6 +40,13 @@
 * The idea is to lessen the amount of time that a parent has to spend worrying about a disabled child's disabilities.
 
 
+### Research Notes
+* Find more data sets
+* Find libraries to visualize datasets
+* Technologies for big data
+* What should we program in?
+
+
 https://drive.google.com/drive/folders/1FpF30tSunjtKq9n9Mm1-ofGiof-X1eJI
 
 Justin, Jason, Brian, Ashish from Incom
