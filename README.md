@@ -8,3 +8,11 @@
 * On that note, can we use something like a Google account to do secure log in?
 * Should we build the entire app or just the data pages?
 * Will we be given sample data? How will we access it?
+
+## Notes from presentation
+
+* Steve Durbis is the Anthem Innovation Studio
+* Mike, Jerome are on the team
+* 
+
+Justin, Jason, Brian, Ashish from Incom
